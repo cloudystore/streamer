@@ -30,7 +30,7 @@ tiles-count: 6
 #twitter_url: https://twitter.com/andrewbanchich
 # exclude
 exclude:
-  - landinh.md
+  - landing.md
   - generic.md
 # build settings
 markdown: kramdown
