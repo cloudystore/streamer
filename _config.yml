@@ -3,7 +3,7 @@ title: The Streamer
 subtitle: by KnoAcc Blog
 #email: youremailaddress@gmail.com
 description: The anonymous movie stream link provier<br /> and released under the Creative Commons.
-baseurl: "/" # the subpath of your site, e.g. /blog
+#baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://streamer.knoacc.org # the base hostname & protocol for your site
 author: Streamer
 street_address: 1234 Somewhere Road
