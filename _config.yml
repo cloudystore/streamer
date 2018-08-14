@@ -32,6 +32,7 @@ tiles-count: 6
 exclude:
   - landing.md
   - generic.md
+  - elements.md
 # build settings
 markdown: kramdown
 
