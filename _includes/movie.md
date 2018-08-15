@@ -5,7 +5,7 @@
 |---:|:---:|
 | Genre | {{ page.video.genre }} |
 | Rilis | {{ page.video.release }} |
-| Hosting | {{ page.video.hosting }} |
+| Hosting | {{ page.video.hosting }}{% if page.video.hosting1 %}, {{ page.video.hosting1 }}{% endif %}{% if page.video.hosting2 %}, page.video.hosting2 }}{% endif %} |
 | Format | {{ page.video.format }} |
 | Kualitas | {{ page.video.quality }} |
 | Resolusi | {{ page.video.resolution }} |
@@ -13,7 +13,7 @@
 
 ### Download
 
-[Link 1]({{ page.video.link1 }})
+{% if page.video.link %}[Link 0]({{ page.video.link }}) {% endif %}{%if page.video.link1 %}[Link 1]({{ page.video.link1 }}){% endif %}{% if page.video.link2 %} {{ page.video.link2 }}{% endif %}
 
 ### Description
 
