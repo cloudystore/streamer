@@ -15,7 +15,7 @@ video:
  size: 554 MB
  format: MKV
  hosting: Google Drive
- link: https://goo.gl/WMm7YN
+ link1: https://goo.gl/WMm7YN
 
 ---
 {% include video.md %}
