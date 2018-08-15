@@ -13,6 +13,7 @@ video:
  format: Mp4
  quality: Bluray Rip
  resolution: 480p 720p 1024p
- duration: -
+ duration: X
+
 ---
 **Sinopsis:** Nganu, aku ra paham...
