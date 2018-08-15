@@ -15,6 +15,7 @@ video:
  quality: HDTS
  resolution: 480p, 720p
  size: 400MB, 850MB
+ format: MKV
  hosting: Mega
  hosting1: Google Drive
  link1: https://mi.knoacc.org/dl/drive?id=1oCv7hKNqUgiH8MWyEusP4PKUZRi1wRFD&size=400MB&name=Skyscraper_480p
