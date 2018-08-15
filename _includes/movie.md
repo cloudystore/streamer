@@ -19,7 +19,7 @@
 
 ### Download
 
-{% if page.video.link %}[Link 0]({{ page.video.link }}) {% endif %}{%if page.video.link1 %}[Link 1]({{ page.video.link1 }}){% endif %}{% if page.video.link2 %} [Link 2]({{ page.video.link2 }}){% endif %}{% if page.video.link3 %} [Link 3]({{ page.video.link3 }})
+{% if page.video.link %}[Link 0]({{ page.video.link }}) {% endif %}{%if page.video.link1 %}[Link 1]({{ page.video.link1 }}){% endif %}{% if page.video.link2 %} [Link 2]({{ page.video.link2 }}){% endif %}{% if page.video.link3 %} [Link 3]({{ page.video.link3 }}){% endif %}
 
 ### Description
 
