@@ -1,5 +1,5 @@
 ---
-layout: stream
+layout: post
 title: Action Point (2018) Bluray
 excerpt: none
 image: https://i0.wp.com/
@@ -14,6 +14,6 @@ video:
  quality: Bluray Rip
  resolution: 480p 720p 1024p
  duration: X
-
 ---
+
 **Sinopsis:** Nganu, aku ra paham...
