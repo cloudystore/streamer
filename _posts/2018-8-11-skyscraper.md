@@ -18,9 +18,9 @@ video:
  format: MKV
  hosting: Mega
  hosting1: Google Drive
- link1: https://mi.knoacc.org/dl/drive?id=1oCv7hKNqUgiH8MWyEusP4PKUZRi1wRFD&size=400MB&name=Skyscraper_480p
- link2: https://mi.knoacc.org/dl/mega?size=400MB&hash=mvRHzIAa!f5kxxSJsH2rmCXEDqDE4pVEBc4m1vBxdnmavOX3fkhU&name=Skyscraper_480p
- link: https://mi.knoacc.org/dl/drive?size=850MB&id=1m93X9_Orr2SwwkwQPXLrdBMyCTtArlh8&name=Skyscraper_720p
+ link: https://goo.gl/vqkohB
+ link1: https://goo.gl/95KnWP
+ link2: https://goo.gl/He6wT8
 
 ---
 ![{{ page.title }}]({{ page.image }})
