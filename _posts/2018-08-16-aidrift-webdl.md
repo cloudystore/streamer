@@ -13,6 +13,8 @@ video:
  imdb: IMDb 6.7/10 from 8,046 users
  release: May 31, 2018
  hosting: RapidVideo
+ resolution: 480p, 720p, 1024p
+ format: MP4
  link: https://goo.gl/2uDHzP
 
 ---
