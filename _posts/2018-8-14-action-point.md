@@ -15,7 +15,7 @@ video:
  resolution: 480p 720p 1024p
  duration: 85 menit
 ---
-![{{ page.title]({{,page.image }})
+![{{ page.title }}]({{,page.image }})
 
 {% include movie.md %}
 
