@@ -18,7 +18,7 @@ video:
  link: https://goo.gl/WMm7YN
 
 ---
-
+{% include video.md %}
 
 Kisah perjalanan petualangan Barbara Thorson, seorang gadis remaja yang berjuang melalui kerasnya kehidupan dengan melarikan diri ke dalam sebuah dunia fantasi penuh dengan sihir dan para monster.
 
