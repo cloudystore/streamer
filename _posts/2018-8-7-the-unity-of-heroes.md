@@ -1,4 +1,5 @@
 ---
+layout: post
 title: The Unity of Heroes (2018)
 description: In the late Qing Dynasty, the East India Company produces a narcotic by conducting human testing.
 image: https://i0.wp.com/www.maactioncinema.com/wp-content/uploads/2018/04/32467746_1807669449253267_3341097506720186368_n.jpg
