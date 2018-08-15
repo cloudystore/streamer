@@ -9,11 +9,13 @@
 | Rilis | {{ page.video.release }} |
 | Produser | {{ page.video.producer }} |
 | Distribusi | {{ page.video.distributor }} |
+| Rating | {{ page.video.imdb }} |
 | Hosting | {{ page.video.hosting }}{% if page.video.hosting1 %}, {{ page.video.hosting1 }}{% endif %}{% if page.video.hosting2 %}, page.video.hosting2 }}{% endif %} |
 | Format | {{ page.video.format }} |
 | Kualitas | {{ page.video.quality }} |
 | Resolusi | {{ page.video.resolution }} |
 | Durasi | {{ page.video.duration }} |
+
 
 ### Download
 
