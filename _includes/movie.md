@@ -3,6 +3,8 @@
 
 | Judul: | {{ page.video.title }} |
 |---:|:---:|
+| Sutradara | {{ page.video.director }} |
+| Pemain | {{ page.video.cast }} |
 | Genre | {{ page.video.genre }} |
 | Rilis | {{ page.video.release }} |
 | Hosting | {{ page.video.hosting }}{% if page.video.hosting1 %}, {{ page.video.hosting1 }}{% endif %}{% if page.video.hosting2 %}, page.video.hosting2 }}{% endif %} |
