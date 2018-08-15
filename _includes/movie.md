@@ -1,6 +1,5 @@
 ### Details
 
-![Poster]({{ page.image }}){:.align-center}
 
 | Judul: | {{ page.video.title }} |
 |---:|:---:|
