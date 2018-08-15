@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Kill Giants (2018)
+title: I Kill Giants (2017) Bluray
 description: Kisah perjalanan petualangan Barbara Thorson
 image: https://i0.wp.com/windows-torrent-download.net/wp-content/uploads/2018/03/I-Kill-Giants-2017-1080p-WEB-DL-620x330.jpg
 video:
@@ -12,7 +12,7 @@ video:
  director: Anders Walter
  genre: Fantasy
  quality: Bluray rip
- resolution: 720p
+ resolution: 480p, 720p, 1024p
  size: 554 MB
  format: MKV
  hosting: RapidVideo
