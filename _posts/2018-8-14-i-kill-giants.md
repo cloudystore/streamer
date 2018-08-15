@@ -14,7 +14,7 @@ video:
  quality: Bluray rip
  resolution: 480p, 720p, 1024p
  size: 554 MB
- format: MKV
+ format: MP4, MKV
  hosting: RapidVideo
  hosting1: GoogleDrive
  link1: https://goo.gl/WMm7YN
