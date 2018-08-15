@@ -3,7 +3,7 @@ layout: post
 title: The Unity of Heroes (2018) Bluray
 description: In the late Qing Dynasty, the East India Company produces a narcotic by conducting human testing.
 image: https://i0.wp.com/www.maactioncinema.com/wp-content/uploads/2018/04/32467746_1807669449253267_3341097506720186368_n.jpg
-movie:
+video:
  title: The Unity of Heroes
  release: 2018
  quality: BluRay
@@ -21,4 +21,4 @@ movie:
 ![{{ page.title }}]({{ page.image }})
 {% include movie.md %}
 
- In the late Qing Dynasty, the East India Company produces a narcotic by conducting human testing in Guangdong. These secret tests begin to come to light when one of the test subjects crashes into Wong Fei Hung’s famed medicine clinic.
+In the late Qing Dynasty, the East India Company produces a narcotic by conducting human testing in Guangdong. These secret tests begin to come to light when one of the test subjects crashes into Wong Fei Hung’s famed medicine clinic.
