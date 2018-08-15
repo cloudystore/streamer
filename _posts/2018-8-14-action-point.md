@@ -13,8 +13,12 @@ video:
  format: Mp4
  quality: Bluray Rip
  resolution: 480p 720p 1024p
- duration: X
+ duration: 85 menit
 ---
 {% include movie.md %}
 
-**Sinopsis:** Nganu, aku ra paham...
+**Source:** https://en.wikipedia.org/wiki/Action_Point
+
+Action Point is a 2018 American comedy film directed by Tim Kirkby and starring Johnny Knoxville and Chris Pontius. Knoxville was inspired to make the film after seeing Matt Robertson's 2013 short documentary The Most Insane Amusement Park Ever, about Action Park, a theme park in New Jersey which was notorious for poorly designed, unsafe rides, in addition to employing underaged, undertrained and often under-the-influence staff.[3]
+
+As with Bad Grandpa, a previous film by Knoxville, Action Point features traditional Jackass-style stunts connected by a fictional narrative. It was released in the United States on June 1, 2018 by Paramount Pictures. It underperformed at the box office and received mostly negative reviews from critics, who called the film "boring, by-the-numbers and deflated."[4]
