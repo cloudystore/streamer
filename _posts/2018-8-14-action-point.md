@@ -15,5 +15,6 @@ video:
  resolution: 480p 720p 1024p
  duration: X
 ---
+{% include movie.md %}
 
 **Sinopsis:** Nganu, aku ra paham...
