@@ -1,7 +1,7 @@
 ---
 title: Patient Zero (2018) WEB-dl
 description: After an unprecedented global pandemic has turned the majority of humankind into violent 'Infected'
-image: https://extraimage.net/images/2018/08/14/e821e3fe40c21fc74eeccc7544243140.jpg
+image: https://m.media-amazon.com/images/M/MV5BMWFjMjhiNzMtMzgzZS00MWI5LWI0YzEtNjFmY2U0NjAzZjcwXkEyXkFqcGdeQXVyNDUxMjU1NDQ@._V1_SY1000_CR0,0,646,1000_AL_.jpg
 video:
  title: Patient Zero
  imdb: IMDb 4.4/10 from 618 users
