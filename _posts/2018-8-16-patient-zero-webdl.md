@@ -4,7 +4,7 @@ description: After an unprecedented global pandemic has turned the majority of h
 image: https://extraimage.net/images/2018/08/14/e821e3fe40c21fc74eeccc7544243140.jpg
 video:
  title: Patient Zero
- rating: IMDb 4.4/10 from 618 users
+ imdb: IMDb 4.4/10 from 618 users
  release: 2018
  cast: Natalie Dormer, Stanley Tucci, Matt Smith Clive, Standen, John Bradley, Agyness Deyn, Dilyana Bouklieva, James Northcote, Jorge Leon Martinez, Anastasia Harrold, Joshua Osei, Colin McFarlane, Pippa Bennett-Warner, Yumiko Hanasaka, Daniel Westwood, Susanna Herbert
  release: 2018
@@ -15,6 +15,8 @@ video:
  country: Amrik
  hosting: RapiVideo
  quality: WEB-dl
+ format: MP4
+ duration: N/A
  resolution: 480p, 720p, 1024p
  link: https://goo.gl/DVHuce
 
