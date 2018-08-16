@@ -15,7 +15,7 @@ video:
  format: MP4
  hosting: RapidVideo
  resolution: 480p, 720p, 1024p
- link: /g
+ link: https://goo.gl/1dzBjj
  producer: National Institute of Cinema and Audiovisual Arts
  distributor: Netflix
 
