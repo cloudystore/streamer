@@ -12,7 +12,7 @@ video:
  imdb: IMDb 7.4/10 from 3,866 users
  release: June 1, 2018
  hosting: RapidVideo
- resolution: 480p, 720p, 1024p
+ resolution: 480p, 720p, 1080p
  link: https://goo.gl/GihFWX
  format: MP4
  distributor: N/A
