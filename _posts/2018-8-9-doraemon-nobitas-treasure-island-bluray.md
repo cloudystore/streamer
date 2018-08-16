@@ -15,7 +15,7 @@ video:
  release: March 3, 2018
  hosting: RapidVideo
  format: MP4
- resolution: 480p, 720p, 1024p
+ resolution: 480p, 720p, 1080p
  link: https://goo.gl/DoScDn
  duration: 1 jam 49 menit
 
