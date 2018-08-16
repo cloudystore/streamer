@@ -3,6 +3,7 @@ title: American Animals (2018) WEB-dl
 description: Four young men mistake their lives for a movie and attempt one of the most audacious heists in U.S. history.a movie.
 image: https://cdn.flickeringmyth.com/wp-content/uploads/2018/04/american-animals.png
 video:
+ title: American Animals
  quality: WEBDL
  country: Uk, Usa
  cast: Ann Dowd, Barry Keoghan, Evan Peters
@@ -13,6 +14,7 @@ video:
  hosting: RapidVideo
  resolution: 480p, 720p, 1024p
  link: https://goo.gl/qst5bD
+ format: MP4
  distributor: N/A
  producer: Poppy Dixon, Dimitri Doganis, Mary Jane Skalski, Derrin Schlesinger, lainnya
  duration: 1 jam 57 menit
