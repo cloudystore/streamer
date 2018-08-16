@@ -21,6 +21,14 @@ video:
  link: https://goo.gl/Kmxe5W
 
 ---
+![{{ page.title }}](https://pmcvariety.files.wordpress.com/2018/04/the-miracle-season.jpg)
+
+{% include movie.md %}
+
+“The Miracle Season” is a religious sports film — and by that, I don’t just mean that it’s a drama sprinkled with faith-based fairy dust (though you don’t have to look hard between the lines to see that it is). I mean that it’s a movie of fundamentalist feel-good fervor.
+
+Set in 2011, it’s based on the true story of a high-school girls’ volleyball team — the West High Trojans of Iowa City — who won the state championship two years in a row, and it’s all about how they took their inspiration from tragedy. Just as that second season was getting under way, the team’s star setter and most popular player, a 17-year-old senior named Caroline Found (known by her nickname, “Line”), was killed in an accident while driving a moped. Caroline, by all accounts, was a highly adored student: fiery, virtuous, charismatic, good. Her disconsolate teammates felt that they couldn’t go on, that they couldn’t play without her. But instead, they decided to play with a vengeance. They fought their way to a second championship by honoring, and channeling, her spirit.
+
 Synopsis:
 After the tragic death of star volleyball player Caroline "Line" Found, a team of dispirited high school girls must band together under the guidance of their tough-love coach in hopes of winning the state championship.
 
