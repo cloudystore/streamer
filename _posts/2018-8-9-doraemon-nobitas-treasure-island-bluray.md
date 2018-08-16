@@ -21,7 +21,7 @@ video:
 
 ---
 ![{{ page.title }}]({{ page.image }})
-{% include movie.md %
+{% include movie.md %}
 
 Synopsis:
 In the story, Doraemon, Nobita, Shizuka, Gian, and Suneo set out on an adventure in the Caribbean Sea. Nobita is the captain of a ship and fights his enemies on board. Shizuka gets kidnapped, and a storm impedes their journey. Mini-Dora help Nobita and friends on their journey. When the adventurers finally find the mysterious Treasure Island, they discover it is more than just an ordinary island.
