@@ -10,7 +10,7 @@ video:
  release: April 13, 2018
  hosting: RapidVideo
  format: MP4
- resolution: 480p, 720p, 1024p
+ resolution: 480p, 720p, 1080p
  size: various
  duration: 1 jam 40 menit
  link: https://goo.gl/Kmxe5W
