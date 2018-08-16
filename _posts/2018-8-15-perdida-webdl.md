@@ -1,15 +1,23 @@
 ---
 title: Perdida (2018) WEB-dl
+description: Story based on the novel by Florencia Etcheves "Cornelia"
+image: https://i0.wp.com/www.newonnetflix.ca/wp-content/uploads/2018/07/perdida.jpg
 video:
  title: Perdida
  quality: WEBDL
  country: Argentina, Spain
  cast: Carlos Alcantara, Juan Ignacio Cane, Mara Alberto
-SutradaraAlejandro Montiel
+ director: Alejandro Montiel
  genre: Crime, Drama, Mystery, Thriller
- imdb: IMDb5.4 / 10 from 656 users
+ imdb: IMDb 5.4/10 from 656 users
  release: April 19, 2018
- durasi: 1 jam 43 menit
+ duration: 1 jam 43 menit
+ format: MP4
+ hosting: RapidVideo
+ resolution: 480p, 720p, 1024p
+ link: /g
+ producer: National Institute of Cinema and Audiovisual Arts
+ distributor: Netflix
 
 ---
 
