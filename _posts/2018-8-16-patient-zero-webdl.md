@@ -16,7 +16,7 @@ video:
  hosting: RapiVideo
  quality: Bluray
  resolution: 480p, 720p, 1024p
- link: https://www.rapidvideo.com/d/FUA2XKMPHZ
+ link: https://goo.gl/DVHuce
 
 ---
 ![{{ page.title }}]({{ page.image }})
