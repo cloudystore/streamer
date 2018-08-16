@@ -15,6 +15,7 @@ video:
  hosting: RapidVideo
  resolution: 480p, 720p, 1024p
  format: MP4
+ size: Variatif tergantung resolusi
  link: https://goo.gl/fgDUcz
 ---
 ![{{ page.title }}]({{ page.image }})
