@@ -14,7 +14,7 @@ video:
  genre: horor, action, drama
  country: Amrik
  hosting: RapiVideo
- quality: Bluray
+ quality: WEB-dl
  resolution: 480p, 720p, 1024p
  link: https://goo.gl/DVHuce
 
