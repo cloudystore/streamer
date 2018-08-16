@@ -17,7 +17,7 @@ video:
  quality: WEB-dl
  format: MP4
  duration: N/A
- resolution: 480p, 720p, 1024p
+ resolution: 480p, 720p, 1080p
  link: https://goo.gl/6MtWSR
 
 ---
