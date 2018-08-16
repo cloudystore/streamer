@@ -12,7 +12,7 @@ video:
  director: Anders Walter
  genre: Fantasy
  quality: Bluray rip
- resolution: 480p, 720p, 1024p
+ resolution: 480p, 720p, 1080p
  size: 554 MB
  format: MP4, MKV
  hosting: RapidVideo
