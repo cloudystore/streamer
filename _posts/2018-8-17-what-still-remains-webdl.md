@@ -18,7 +18,7 @@ video:
  size: Variatif tergantung resolusi
  link: https://goo.gl/fgDUcz
 ---
-![{{ page.title }}]({{ page.image }})
+![{{ page.title }}](https://i2.wp.com/bloody-disgusting.com/wp-content/uploads/2018/02/MV5BYTg5MzY0MjAtNDY4Yy00NzM3LWI4Y2QtYTExNDMwYmRmYjZkXkEyXkFqcGdeQXVyMjM2MzYzODE@._V1_SY1000_CR0014911000_AL_.jpg)
 {% include movie.md %}
 
 Directed by Josh Mendoza, ahead of EFM comes the first trailer for What Still Remains, starring Lulu Antariksa, Colin O’Donoghue (The Rite, Storage 24), and Mimi Rodgers (Ginger Snaps).
