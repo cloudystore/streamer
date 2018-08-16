@@ -24,9 +24,10 @@
 	  <header class="major">
 	    <h1>{{ post.title }}</h1>
 	  </header>
-	  {% if post.description %}<span>{{ post.description }}</span>{% endif %}{% if post.resolution %}, <span>Resolusi: {{ post.resolution }}</span>{% endif %}
+		
+	 <p> {% if post.description %}<span>{{ post.description }}</span>{% endif %}{% if post.resolution %}, <span>Resolusi: {{ post.resolution }}</span>{% endif %}</p>
 	  {% if post.url %}<a class="button" title="{{ page.title }}" href="{{ post.url }}">View</a>{% endif %}
-
+<br/>
 	  {% endif %}
           {% endfor %}
 	</div>
