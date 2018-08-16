@@ -1,6 +1,11 @@
 ---
 title: Miracle Session (2018) Bluray
+image: "https://i0.wp.com/entractfilms.com/includes/images/posters/_posterLarge/Miracle-Season-Banner-Standee-5x8-EN-LORES.jpg" 
+description: The Miracle Season is a 2018 American drama film directed by Sean McNamara_
 video:
+ title: Miracle Session
+ producer: LD Entertainment
+ distribution: LD Entertainment
  quality: BluRay
  country: Usa
  cast: Erin Moriarty, Helen Hunt, William Hurt
