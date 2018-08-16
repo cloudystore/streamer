@@ -21,4 +21,5 @@ video:
 ![{{ page.title }}]({{ page.image }})
 {% include movie.md %}
 
+Synopsis:
 In the late Qing Dynasty, the East India Company produces a narcotic by conducting human testing in Guangdong. These secret tests begin to come to light when one of the test subjects crashes into Wong Fei Hung’s famed medicine clinic.
