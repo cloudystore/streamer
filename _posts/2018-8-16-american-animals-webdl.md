@@ -13,7 +13,7 @@ video:
  release: June 1, 2018
  hosting: RapidVideo
  resolution: 480p, 720p, 1024p
- link: https://goo.gl/qst5bD
+ link: https://goo.gl/GihFWX
  format: MP4
  distributor: N/A
  producer: Poppy Dixon, Dimitri Doganis, Mary Jane Skalski, Derrin Schlesinger, lainnya
