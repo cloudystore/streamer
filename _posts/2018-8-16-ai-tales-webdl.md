@@ -15,7 +15,7 @@ video:
  imdb: IMDb 3.7/10 from 42 users
  release: 2018
  hosting: RapidVideo
- link: https://goo.gl/iqAPyo
+ link: https://goo.gl/cFTw21
 
 ---
 ![{{ page.title }}]({{ page.image }})
