@@ -7,14 +7,20 @@
 | Pemain | {{ page.video.cast }} |
 | Genre | {{ page.video.genre }} |
 | Rilis | {{ page.video.release }} |
-{% if page.video.producer %}| Produser | {{ page.video.producer }} |{% endif %}
-{% if page.video.distributor %}| Distribusi | {{ page.video.distributor }} |{% endif %}
-{% if page.video.imdb %}| Rating | {{ page.video.imdb }} |{% elsif page.video.rating %}| Rating | {{ page.video.rating }} |{% endif %}
+{% if page.video.producer %}
+| Produser | {{ page.video.producer }} |
+{% endif %}
+{% if page.video.distributor %}
+| Distribusi | {{ page.video.distributor }} |
+{% endif %}
+| Rating | {% if page.video.imdb %}{ page.video.imdb }}{% elsif page.video.rating %}{{ page.video.rating }}{% endif %} |
 | Hosting | {{ page.video.hosting }}{% if page.video.hosting1 %}, {{ page.video.hosting1 }}{% endif %}{% if page.video.hosting2 %}, page.video.hosting2 }}{% endif %} |
 | Format | {{ page.video.format }} |
 | Kualitas | {{ page.video.quality }} |
 | Resolusi | {{ page.video.resolution }} |
-{% if page.video.duration %}| Durasi | {{ page.video.duration }} |{% endif %}
+{% if page.video.duration %}
+| Durasi | {{ page.video.duration }} |
+{% endif %}
 
 
 ### Download
