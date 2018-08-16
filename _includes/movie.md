@@ -2,7 +2,7 @@
 
 
 | Judul: | {{ page.video.title }} |
-|---:|:---:|
+|:---|:---|
 | Sutradara | {{ page.video.director }} |
 | Pemain | {{ page.video.cast }} |
 | Genre | {{ page.video.genre }} |
