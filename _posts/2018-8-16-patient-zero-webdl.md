@@ -18,7 +18,7 @@ video:
  format: MP4
  duration: N/A
  resolution: 480p, 720p, 1024p
- link: https://goo.gl/DVHuce
+ link: https://goo.gl/6MtWSR
 
 ---
 ![{{ page.title }}]({{ page.image }})
