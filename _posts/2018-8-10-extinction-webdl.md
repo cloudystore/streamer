@@ -11,7 +11,7 @@ video:
  director: Ben Young
  genre: Sci-fi, Thriller
  imdb: MDb 6.1/10 from 2,447 users
- resolution: 480p, 720p, 1024p
+ resolution: 480p, 720p, 1080p
  size: Tergantung lu donlot yang mana
  format: mp4
  distribution: NetFlix
