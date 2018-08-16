@@ -38,3 +38,8 @@ markdown: kramdown
 
 sass:
   style: compressed
+# plugin
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
