@@ -15,7 +15,7 @@ video:
  hosting: RapidVideo
  format: MP4
  resolution: 480p, 720p, 1080p
- link:
+ link: https://goo.gl/2kFSoe
  producer: CTB Film Company
  distribution: Nashe Kino
 
