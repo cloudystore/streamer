@@ -25,7 +25,7 @@
 	    <h1>{{ post.title }}</h1>
 	  </header>
 		
-	 {% if post.description %}<span>{{ post.video.description }}</span>{% endif %}<br />{% if post.video.resolution %}<span>Resolusi: {{ post.resolution }}</span>{% endif %}<br />
+	 {% if post.description %}{{ post.description }}{% endif %}<br />{% if post.video.resolution %}Resolusi tersedia: {{ post.video.resolution }}{% endif %}<br />
 	 {% if post.url %}<a class="button" title="{{ page.title }}" href="{{ post.url }}">View</a>{% endif %}
 <br /><hr/>
 	  {% endif %}
