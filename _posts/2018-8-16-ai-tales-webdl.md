@@ -4,7 +4,8 @@ description: award-winning, science fiction-based short stories about space trav
 image: https://i0.wp.com/decaymag.com/wp-content/uploads/2018/06/a.i-tales.jpg
 video:
  title: A.I. Tales
- release: 2018
+ resolution: 480p, 720p, 1024p
+ size: tergantung
  format: MP4
  quality: WEBDL
  country: Amrik
