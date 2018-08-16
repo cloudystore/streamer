@@ -18,6 +18,11 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
+facebook:
+ app_id: 715880638622922
+ publisher: indexAPKs
+ admins: phateholloway
+
 #500px_url:
 #facebook_url:
 #github_url:
