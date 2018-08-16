@@ -13,7 +13,7 @@ video:
  release: August 14, 2018
  duration: 1 jam 32 menit
  hosting: RapidVideo
- resolution: 480p, 720p, 1024p
+ resolution: 480p, 720p, 1080p
  format: MP4
  size: Variatif tergantung resolusi
  link: https://goo.gl/fgDUcz
