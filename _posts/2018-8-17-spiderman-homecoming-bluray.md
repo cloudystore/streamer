@@ -1,6 +1,6 @@
 ---
 title: "Spiderman: Homecoming (2017) Bluray"
-description: Thrilled by his experience with the Avengers, Peter returns home, where he lives with his Aunt May, under the watchful eye of his new mentor Tony Stark, Peter tries to fall back into his normal daily routine - distracted by thoughts of proving himself to be more than just your friendly neighborhood Spider-Man - but when the Vulture emerges as a new villain, everything that Peter holds most important will be threatened.
+description: Thrilled by his experience with the Avengers, Peter returns home, where he lives with his Aunt May, under the watchful eye of his new mentor Tony Stark, Peter tries to fall back into his normal daily routine
 image: http://www.joblo.com/posters/images/full/Spiderman-poster-7-large.jpg
 
 ---
@@ -27,7 +27,7 @@ Thrilled by his experience with the Avengers, Peter returns home, where he lives
 
 **Awards:** 4 wins & 9 nominations.
 **Budget:** $175,000,000 (estimated)
-**Worldwide Gross:*" $880,166,924
+**Worldwide Gross:** $880,166,924
 **Soundtrack:** In The Air Written by Craig Smith, Cheapshot (as Colton Fisher), Jason Rabinowitz, Cameron Marygold and Brayden Deskins Performed by Craig Craig Courtesy of The Math Club
 
 ### Download
