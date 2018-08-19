@@ -13,7 +13,7 @@ image: https://i1.wp.com/pmcvariety.files.wordpress.com/2018/05/viking-destiny.j
 | Negara: | Uk |
 | Cast: | Martyn Ford, Paul Freeman, Terence Stamp |
 | Sutradara: | David L.G. Hughes |
-| Genre: Action, Adventure, Fantasy |
+| Genre: | Action, Adventure, Fantasy |
 | Rating: | IMDb 4.2/10 from 136 users |
 | Diterbitkan: | July 26, 2018 |
 | Durasi: | 1 jam 30 menit |
