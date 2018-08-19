@@ -46,4 +46,4 @@ From Marvel comes Doctor Strange, the story of world-famous neurosurgeon Dr. Ste
 
 ### Streaming: Mango
 
-<iframe src="https://streamango.com/embed/pddfrcobfkpalcme"></iframe>
+<iframe src="https://streamango.com/embed/pddfrcobfkpalcme"/>
