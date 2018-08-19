@@ -41,12 +41,10 @@ Worldwide Gross: $67,470,675, 16 July 2018
 | Kualitas: HDRIP |
 | Resolusi: 480p, 720p, 1080p |
 | Format: MP4 hardsub Indo |
-| [Download RaVid](https://safelink.knoacc.org/#wyze9){:.button} |
+| [Download RaVid](https://safelink.knoacc.org/#wyze9){:.button rel="noopener"} |
 
 
 | Link Streaming |
 |:---:|
-| [Streaming via RapidVideo](https://www.rapidvideo.com/e/FU8VGPIBSX){:.button}
-| [Streaming via Streamango](https://streamango.com/embed/tkqsdlrnbeespcct){:.button}
-| [Streaming via Openload](https://oload.stream/embed/F_y5fKuw3kY){:.button}
-
+| [Streaming via Streamango](https://safelink.knoacc.org/#DNPP8){:.button rel="noopener"}
+| [Streaming via Openload](https://safelink.knoacc.org/#VJnXA){:.button rel="noopener"}
