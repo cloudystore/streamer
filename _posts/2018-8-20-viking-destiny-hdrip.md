@@ -19,6 +19,12 @@ image: https://i1.wp.com/pmcvariety.files.wordpress.com/2018/05/viking-destiny.j
 | Durasi: | 1 jam 30 menit |
 | Penerjemah: | abudisme |
 
+| Poster |
+|:---:|
+| ![Poster Viking Destiny](https://www.moviemeter.nl/images/cover/1120000/1120902.jpg?cb=1532513945) |
+
+### Sinopsis/Review
+
 **Synopsis:**
 A Viking Princess is forced to flee her kingdom after being framed for the murder of her father, the King. 
 
