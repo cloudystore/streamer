@@ -1,9 +1,10 @@
 ---
 title: "Pacific Rim: Uprising (2018) Bluray"
 description: Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots.
-image: https://vignette.wikia.nocookie.net/pacificrim/images/b/b1/Pacific_Rim_Uprising_Jaeger_Posters-03.jpg/revision/latest?cb=20180304203603
+image: 
 ---
-![{{ page.title }}](https://cdnx.kincir.com/production/media/2018/maret/review-pacific-rim-uprising/1-review-pacific-rim-uprising.jpg)
+![{{ page.title }}](https://vignette.wikia.nocookie.net/pacificrim/images/b/b1/Pacific_Rim_Uprising_Jaeger_Posters-03.jpg/revision/latest?cb=20180304203603
+
 ### Details
 
 | Judul: | Pacific Rim: Uprising |
@@ -61,9 +62,12 @@ Nyatanya, del Toro enggak “lepas tangan” begitu aja. Dia juga menggarap Pac
 
 DeKnight bisa dibilang berbakat garap film fiksi ilmiah dengan unsur robot dan monster. Pengarahan kepada para pemerannya juga enggak buruk. Sayangnya, cerita yang terburu-buru bikin film jadi terasa “kentang”. Kalau lo pengen pertempuran epik antara robot dan monster itu berakhir bahagia dan penuh klimaks, sayangnya, film ini enggak bisa ngasih kepuasan maksimal.
 
+![{{ page.title }}](https://cdnx.kincir.com/production/media/2018/maret/review-pacific-rim-uprising/1-review-pacific-rim-uprising.jpg)
+
 Walaupun begitu, film ini masih mampu menyajikan hiburan dari segi berbeda, baik untuk remaja maupun dewasa. Soalnya, enggak banyak film fiksi ilmiah Hollywood yang bertemakan pertarungan masif antara robot dan monster. Makanya, Pacific Rim: Uprising jadi penantian beberapa penggemar mecha setelah film tema robot lainnya yang kurang memuaskan.
 
-Meski belum bisa memuaskan ekspektasi secara maksimal, Pacific Rim: Uprising bisa sedikit menghilangkan rasa kangen lo sebagai penggemar _mecha_ atau _tokusatsu.
+Meski belum bisa memuaskan ekspektasi secara maksimal, Pacific Rim: Uprising bisa sedikit menghilangkan rasa kangen lo sebagai penggemar _mecha_ atau _tokusatsu_.
+
 ### Download
 
 | Hosting: RapidVideo |
