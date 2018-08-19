@@ -1,7 +1,7 @@
 ---
 title: Viking Destiny (2018) HDrip
 description:
-image: https://i1.wp.com/pmcvariety.files.wordpress.com/2018/05/viking-destiny.jpg?w=600)
+image: https://i1.wp.com/pmcvariety.files.wordpress.com/2018/05/viking-destiny.jpg
 
 ---
 ![Viking Dedtiny Wallpaper](https://i1.wp.com/pmcvariety.files.wordpress.com/2018/05/viking-destiny.jpg)
