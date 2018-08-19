@@ -15,7 +15,7 @@ image: https://i2.wp.com/static.dezeen.com/uploads/2018/07/the-pearl-skyscraper-
 | Negara: | Usa |
 | Cast: | **Dwayne Johnson**, Neve Campbell,  Pablo Schreiber |
 | Sutradara: | Rawson Marshall Thurber |
-| Genre: Action, Crime, Drama, Thriller |
+| Genre: | Action, Crime, Drama, Thriller |
 | Rating: | IMDb 6.2/10 from 8,128 users |
 | Rilis: | July 11, 2018 |
 | Penerjemah: | pein-akatsuki |
