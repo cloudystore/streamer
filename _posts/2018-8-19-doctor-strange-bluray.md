@@ -1,13 +1,15 @@
 ---
 title: Doctor Strange (2016) Bluray
 description: Based in New York City's Greenwich Village, Doctor Strange must act as an intermediary between the real world and what lies beyond
-image: https://is2-ssl.mzstatic.com/image/thumb/Video128/v4/b2/a6/0c/b2a60c32-c11c-dc9d-ae56-9a2a23547164/pr_source.jpg/1200x600bf.jpg
+image: https://cdnx.kincir.com/old/2016/10/feat-47-1300x500.jpg
+
 ---
 ![{{ page.title }}]({{ page.image }})
 
 ### Details:
 
 | Judul: | Doctor Strange |
+|---:|:---|
 | Kualitas: | BluRay |
 | Negara: | United States |
 | Cast: | Benedict Cumberbatch, Benedict Wong, Chiwetel Ejiofor, Mads Mikkelsen, Rachel McAdams |
