@@ -30,6 +30,8 @@ From Marvel comes Doctor Strange, the story of world-famous neurosurgeon Dr. Ste
 **Worldwide Gross:** $677,718,395
 **Soundtrack:** Interstellar Overdrive Written by Roger Waters, Richard Wright (as Rick Wright), Nick Mason, and Syd Barrett Performed by Pink Floyd Courtesy of Pink Floyd Records/Sony Music Entertainment by arrangement with Sony Music Licensing
 
+![Dr. Strange](https://cdnx.kincir.com/old/2016/10/4-31.jpg)
+
 ### Download: RapidVideo & Openload
 
 | Server: RapidVideo |
