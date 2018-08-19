@@ -2,7 +2,7 @@
 title: The Streamer
 subtitle: by KnoAcc Blog
 #email: youremailaddress@gmail.com
-description: The anonymous movie stream link provider<br />Released without: Annoying ads, Analitycs nor Cookies.
+description: The anonymous movie stream link provider<br />Released without <b>annoying ads</b>, <b>Analitycs</> nor <b>Cookies</b>.
 #baseurl: "/" # the subpath of your site, e.g. /blog
 url: https://streamer.knoacc.org # the base hostname & protocol for your site
 author: Streamer
