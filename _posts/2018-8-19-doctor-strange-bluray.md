@@ -37,7 +37,7 @@ From Marvel comes Doctor Strange, the story of world-famous neurosurgeon Dr. Ste
 | Server: RapidVideo |
 |:---:|
 | Kualitas: Bluray |
-| Resolusi: 480p, 720p, 1080p |
+| Resolusi: 480p, 720p |
 | [Download RaVid](https://safelink.knoacc.org/#WDMqG){:.button} |
 
 | Server: Openload |
