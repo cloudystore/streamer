@@ -42,7 +42,7 @@ _{{ page.title }}_
 | Host: RapidVideo |
 | Kualitas: Bluray |
 | Resolusi: 480p, 720p, 1080p |
-| [Download](https://safelink.knoacc.org/#1KhW2){:.button} |
+| [Download](https://safelink.knoacc.org/#QV9N2){:.button} |
 
 | Link Streaming |
 |:---:|
