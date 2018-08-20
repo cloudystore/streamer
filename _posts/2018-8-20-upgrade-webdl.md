@@ -17,11 +17,11 @@ _{{ page.title }}_
 | Sutradara: | Leigh Whannell | 
 | Genre: | Action, Horror, Sci-fi, Thriller |
 | Rating: | IMDb,7.7/10,from 7,358 users |
-| Durasi: 1 jam 36 menit |
+| Durasi: | 1 jam 36 menit |
 | Diterbitkan | June 1, 2018 |
 | Penerjemah: | **pein-akatsuki** |
 
-| ![Upgrade Romance](https://cdn.traileraddict.com/content/screencap/123189.jpg)
+![Upgrade Romance](https://cdn.traileraddict.com/content/screencap/123189.jpg)
 
 ### Sinopsis/Review
 
