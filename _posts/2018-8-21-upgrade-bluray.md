@@ -46,5 +46,5 @@ _{{ page.title }}_
 
 | Link Streaming |
 |:---:|
-| [OpenLoad](https://safelink.knoacc.org/#Z4MHE){:.button} |
-| [MirrorAce](https://safelink.knoacc.org/#Wyu8g){:.button} |
+| [OpenLoad](https://safelink.knoacc.org/#8iGbQ){:.button} |
+| [MirrorAce](https://safelink.knoacc.org/#R8Q4k){:.button} |
